@@ -12,6 +12,8 @@ Developer, Passionate about mobile development, video games and new technologies
 * 🧠  I'm learning Swift
 * ⚡  I love Itashas and Gunplas!
 
+![](https://media.tenor.com/b2ZhtePJIHQAAAAd/silicon-valley-fire.gif)
+
 ### Skills
 
 <p align="left">
