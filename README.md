@@ -7,7 +7,7 @@ Web Developer
 Developer, Passionate about mobile development, video games and new technologies. Empathetic and proactive, always willing to teach my knowledge, and never afraid to ask. ❤️ C#
 
 * 🌍  I'm based in Limerick, Ireland
-* 🖥️  See my portfolio at [giovasdf.github.io/](http://giovasdf.github.io/)
+* 🖥️  See my website at [giovasdf.github.io/](http://giovasdf.github.io/)
 * ✉️  You can contact me at [gmolina.dev@gmail.com](mailto:gmolina.dev@gmail.com)
 * 🧠  I'm learning Swift
 * ⚡  I love Itashas and Gunplas!
