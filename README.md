@@ -9,7 +9,6 @@ Developer, Passionate about mobile development, video games and new technologies
 * 🌍  I'm based in Limerick, Ireland
 * 🖥️  See my website at [giovasdf.github.io/](http://giovasdf.github.io/)
 * ✉️  You can contact me at [gmolina.dev@gmail.com](mailto:gmolina.dev@gmail.com)
-* 🧠  I'm learning Swift
 * ⚡  I love Itashas and Gunplas!
 
 ![](https://media.tenor.com/b2ZhtePJIHQAAAAd/silicon-valley-fire.gif)
