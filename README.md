@@ -41,7 +41,3 @@ Developer, Passionate about mobile development, video games and new technologies
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovasdf&show_icons=true&theme=radical)
-
