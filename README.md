@@ -11,8 +11,6 @@ Developer, Passionate about mobile development, video games and new technologies
 * ✉️  You can contact me at [gmolina.dev@gmail.com](mailto:gmolina.dev@gmail.com)
 * ⚡  I love Itashas and Gunplas!
 
-![](https://media.tenor.com/b2ZhtePJIHQAAAAd/silicon-valley-fire.gif)
-
 ### Skills
 
 <p align="left">
