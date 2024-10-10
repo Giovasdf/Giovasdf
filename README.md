@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giovanni
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Giovanni
 ================================================================================================================================
 
 Web Developer
 -------------
 
-Developer, Passionate about mobile development, video games and new technologies. Empathetic and proactive, always willing to teach my knowledge, and never afraid to ask. ❤️ C#
+👨🏻‍💻 Developer, Passionate about mobile development and new technologies. Empathetic and proactive, always willing to teach my knowledge, and never afraid to ask. 👨🏻‍💻
 
-* 🌍  I'm Chilean based in Limerick, Ireland
 * 🖥️  See my website at [https://gmolina.tech/](https://gmolina.tech/)
-* ✉️  You can contact me at [gmolina.dev@gmail.com](mailto:gmolina.dev@gmail.com)
+* ✉️  You can contact me at [hello@gmolina.tech](mailto:hello@gmolina.tech) or [hola@gmolina.tech](mailto:hola@gmolina.tech)
 * ⚡  I love Itashas and Gunplas!
 
 ### Skills
