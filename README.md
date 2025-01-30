@@ -136,5 +136,3 @@ Tired of repetitive coding? In my latest blog post, I share how to speed up your
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
