@@ -95,20 +95,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=giovasdf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-## Recent Blog Posts  
-🚀 Boost Your VS Code Workflow with Emmet & Keyboard Shortcuts!
-
-Tired of repetitive coding? In my latest blog post, I share how to speed up your workflow in VS Code using Emmet and powerful keyboard shortcuts. Learn how to write HTML & CSS faster, reduce keystrokes, and code more efficiently!
-
-🔗 Read here → gmolina.tech  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
