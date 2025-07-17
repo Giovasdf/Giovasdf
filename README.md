@@ -1,25 +1,11 @@
-<div align="center">
-<img src="./profileCode.png" align="center" height="" width="300" />
-</div>  
-  
+### <div align="center">👋 Hi there! I’m Giovanni Molina, a Software Engineer focused on building scalable web applications with Angular, Vue.js, and .NET Core.</div>  
 
-### <div align="center">👋 Hey there! I’m Giovanni Molina, a Full Stack Developer and Tech Educator passionate about building awesome web apps with .NET Core, Vue.js, and Angular. I love sharing knowledge, creating content, and making technology more accessible.🚀</div>  
-  
+- 💻 Experienced in developing full-featured web & mobile apps using modern frameworks.  
+- 🔧 Strong backend skills in C# and .NET Core with SQL and PostgreSQL databases.  
+- ⚙️ Passionate about clean code, software architecture, and DevOps best practices.  
+- 🌐 Committed to building accessible and performant user experiences.  
 
-- 💡 Build web & mobile applications with modern frameworks.  
-  
-
-- 🎯 Teach & mentor aspiring developers in frontend & backend technologies.  
-  
-
-- 🛠️ Architect software solutions with best practices in Agile & DevOps.  
-  
-
-- 🌍 Advocate for accessibility (WCAG) & inclusive tech.  
-  
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
